@@ -7,5 +7,5 @@
 </ul>
 
 <h3>TDD 개발주기</h3>
-<img src="https://user-images.githubusercontent.com/102283529/201513885-3f369c68-9dff-427e-aabd-1df7801d0c78.png" style="width:150px;">
+<img src="https://user-images.githubusercontent.com/102283529/201513885-3f369c68-9dff-427e-aabd-1df7801d0c78.png" style="width:300px;">
 
