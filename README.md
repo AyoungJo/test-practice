@@ -5,3 +5,6 @@
 <li>리팩토링 시 안정성 확보
 <li> 테스트 하기 쉬운 코드를 작성하다보면 더 낮은 결합도 가진 설계 얻을 수 있음
 </ul>
+
+![image](https://user-images.githubusercontent.com/102283529/201513885-3f369c68-9dff-427e-aabd-1df7801d0c78.png)
+<h3>TDD 개발주기</h3>
